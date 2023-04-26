@@ -1,5 +1,8 @@
 function nanoBotShuttingZone()//DO NOT CHANGE THIS OR ENGINE WILL EXPLODE)
 {
+    let NanoBotX = 0 //By using let, you declare a variable that exist only in the code block, so it modified only the nanobot in the shutting zone
+    let NanoBotY = 0 
+
     console.log(NanoBotX); // Output: 0
     console.log(NanoBotY); // Output: 0
 }
